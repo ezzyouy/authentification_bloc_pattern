@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1064301233691",
+    "firebase_url": "https://auth-9ca42-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "auth-9ca42",
+    "storage_bucket": "auth-9ca42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064301233691:android:85f872b530deb368579abe",
+        "android_client_info": {
+          "package_name": "com.example.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064301233691-5q42hk95rgmginckbia6ea70gvqii96j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbbXjvzAYS6MxvnhxAmVhnwdBGcdhHIrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064301233691-5q42hk95rgmginckbia6ea70gvqii96j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064301233691-7sg9hop1iu2qmhnvin5c37rects1vilh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

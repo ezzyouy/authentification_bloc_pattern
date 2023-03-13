@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>406858370764-vho8rtgcc2ps8tu70r6jvmji7e8btgdp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.406858370764-vho8rtgcc2ps8tu70r6jvmji7e8btgdp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCi3CLX23WKTWtpuJUYr8wV-ZRyw3bw034</string>
+	<key>GCM_SENDER_ID</key>
+	<string>406858370764</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.authApp</string>
+	<key>PROJECT_ID</key>
+	<string>brewcrew-7039e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>brewcrew-7039e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:406858370764:ios:ebd1da29c71fb0029dfc69</string>
+	<key>DATABASE_URL</key>
+	<string>https://brewcrew-7039e-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
